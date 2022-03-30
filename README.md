@@ -1,2 +1,2 @@
 # Sachin
-boostrap>index.html
+index.html
